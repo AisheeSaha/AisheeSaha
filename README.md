@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Aishee💫
+A Data Analyst who enjoys solving business problems with data. I analyze data to uncover hidden trends and patterns and turn them into actionable insights that support better, data-driven decisions.
 
 <!--
 **AisheeSaha/AisheeSaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
