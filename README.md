@@ -1,4 +1,4 @@
-## Hi there, I'm Aishee💫
+## Hey there, I'm Aishee💫
 A Data Analyst who enjoys solving business problems with data. I analyze data to uncover hidden trends and patterns and turn them into actionable insights that support better, data-driven decisions.
 
 <!--
